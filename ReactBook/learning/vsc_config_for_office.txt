@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Atom One Dark",
+    "terminal.integrated.env.windows": {
+        "PATH": "${env:PATH};C:\\Harshavardhanan\\Application\\FullStack\\Node\\Node10_14_2"
+    },
+    "code-runner.runInTerminal": true,
+    "terminal.integrated.rendererType": "dom",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false
+}
