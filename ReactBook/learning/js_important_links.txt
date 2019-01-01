@@ -2,3 +2,7 @@
 How to learn a framework - https://www.robinwieruch.de/how-to-learn-framework/
 JS Pre Req before React - https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
 Classes - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+
+
+##BOOKS##
+The Road to React - https://leanpub.com/the-road-to-learn-react/read_full

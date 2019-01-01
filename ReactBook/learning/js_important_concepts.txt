@@ -11,7 +11,7 @@ Event Bubbling
 Regular Expressions
 Error handling (promise.then(...).catch(...), try { } catch(e) { })
 JavaScript ES6 and beyond
-Hoisting
-Memoization
+Hoisting, Memoization
 Declarative vs imperative programming
 function Composition
+Generator Functions
