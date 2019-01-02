@@ -2,14 +2,13 @@ import React from 'react';
 import Button from './Button';
 
 function List({blogList, searchItem, isSearched, onDismiss}) {
-    let count = 0;
     return (
         <div className="table">
         {
-            blogList.filter(isSearched(searchItem))
+            blogList
             .map((item) => 
               <div key={item.objectID} className="table-row">
-                <span>Blog Post #{++count}</span>
+                <span>Blog Post #</span>
                 <span><a href={item.url}>{item.title}</a></span><br />
                 <span>{item.author}</span><br />
                 <span>{item.points}</span><br />

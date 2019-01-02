@@ -1,0 +1,14 @@
+Higher order Components
+Refering DOM directly
+Set State as a function
+Jest
+Enzyme
+
+#React Links#
+https://reactarmory.com/guides/learn-react-by-itself
+
+#React Test Projects#
+https://daveceddia.com/react-practice-projects/
+https://dev.to/drminnaar/11-react-examples-2e6d
+https://flaviocopes.com/sample-app-ideas/
+http://sean-smith.me/assets/portfolio/25-react-projects/index.html
