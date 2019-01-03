@@ -6,6 +6,7 @@ Enzyme
 
 #React Links#
 https://reactarmory.com/guides/learn-react-by-itself
+Create React App Manually - https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658
 
 #React Test Projects#
 https://daveceddia.com/react-practice-projects/
