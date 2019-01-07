@@ -1,11 +1,35 @@
+##Inside React##
 Higher order Components
 Refering DOM directly
 Set State as a function
+Suspense
+React.lazy
+Contexts
+Error Boundaries
+React Refs
+React Fragments
+React Portal
+Render Props
+React.StrictMode
+Prop Types
+
+##Along With React##
+Redux
+React Router
 Jest
 Enzyme
+Webpack
+Flow/TypeScript
+Web Components
 
 #React Links#
 https://reactarmory.com/guides/learn-react-by-itself
+
+#Redux Links#
+Resources to learn redux - https://blog.isquaredsoftware.com/2017/12/blogged-answers-learn-redux/
+All React-Redux Links - https://github.com/markerikson/react-redux-links
+Offical React-Redux link - https://react-redux.js.org/
+Redux with React Tutorial - https://www.valentinog.com/blog/redux/#React_Redux_tutorial_getting_to_know_Redux_reducers
 
 #React Test Projects#
 https://daveceddia.com/react-practice-projects/
