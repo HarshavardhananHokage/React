@@ -1,3 +1,6 @@
+Prototypes
+Global Object & Function object
+Environment Record
 Functions are first-class citizens in JavaScript
 bind(), apply(), and call()
 Scopes and Closures
@@ -5,13 +8,23 @@ this
 Objects (e.g. Object.keys(myObj).map(key => myMap[key]))
 Arrays (e.g. [1, 2].reduce((sum, summand) => sum + summand, 0))
 Prototypical Inheritance -> ES6 Class
-Callbacks and Promises
+Callbacks
 Event Loop
-Event Bubbling
-Regular Expressions
-Error handling (promise.then(...).catch(...), try { } catch(e) { })
+Event Bubbling (promise.then(...).catch(...), try { } catch(e) { })
 JavaScript ES6 and beyond
 Hoisting, Memoization
 Declarative vs imperative programming
 function Composition
+Error handling
+Promises
 Generator Functions
+Async/Await
+Regular Expressions
+
+JavaScript Fundamentals - http://www.javascripttutorial.net/javascript-prototype/ (Good explanation)
+
+https://hackernoon.com/should-i-use-promises-or-async-await-126ab5c98789
+
+https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f
+
+https://developers.google.com/web/fundamentals/primers/async-functions

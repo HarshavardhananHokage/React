@@ -1,8 +1,13 @@
 ##GENERAL##
 How to learn a framework - https://www.robinwieruch.de/how-to-learn-framework/
 JS Pre Req before React - https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
-Classes - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+Classes - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/
+Master the JS Interview - https://medium.com/javascript-scene/search?q=master%20the%20javascript%20interview
+Promises - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
 
 
 ##BOOKS##
 The Road to React - https://leanpub.com/the-road-to-learn-react/read_full
+
+##APP IDEAS##
+http://www.ideaswatch.com/startup-ideas/web-application
