@@ -20,11 +20,11 @@ Promises
 Generator Functions
 Async/Await
 Regular Expressions
+Service Worker
 
 JavaScript Fundamentals - http://www.javascripttutorial.net/javascript-prototype/ (Good explanation)
 
-https://hackernoon.com/should-i-use-promises-or-async-await-126ab5c98789
 
-https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f
 
-https://developers.google.com/web/fundamentals/primers/async-functions
+
+

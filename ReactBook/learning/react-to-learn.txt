@@ -24,6 +24,7 @@ Web Components
 
 #React Links#
 https://reactarmory.com/guides/learn-react-by-itself
+https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795
 
 #Redux Links#
 Resources to learn redux - https://blog.isquaredsoftware.com/2017/12/blogged-answers-learn-redux/
@@ -35,11 +36,14 @@ Redux with React Tutorial - https://www.valentinog.com/blog/redux/#React_Redux_t
 https://flaviocopes.com/react-router/
 https://auth0.com/blog/react-router-4-practical-tutorial/
 
-#React Test Projects#
+#React Test Projects And App Ideas#
 https://daveceddia.com/react-practice-projects/
 https://dev.to/drminnaar/11-react-examples-2e6d
 https://flaviocopes.com/sample-app-ideas/
 http://sean-smith.me/assets/portfolio/25-react-projects/index.html
+https://medium.freecodecamp.org/introducing-programmer-playing-cards-d3eeeffe9a11
+Android App for freecodecamp Radio - https://medium.freecodecamp.org/introducing-24-7-freecodecamp-radio-chill-tunes-you-can-code-to-dbae61681cf0
+Mail Blaster - https://github.com/freeCodeCamp/mail-for-good
 
 
 #React Tic Tac Toe - TODO#
