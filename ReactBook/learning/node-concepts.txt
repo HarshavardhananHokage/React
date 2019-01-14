@@ -1,3 +1,8 @@
 ##Tutorial Links##
 https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/
 https://www.nodejsera.com/30-days-of-node.html
+https://www.nodejsera.com/index.html - Tutorial + App Ideas
+
+
+##Concepts##
+Server Side Rendering of HTML page for initial fast load
