@@ -45,7 +45,12 @@ https://medium.freecodecamp.org/introducing-programmer-playing-cards-d3eeeffe9a1
 Android App for freecodecamp Radio - https://medium.freecodecamp.org/introducing-24-7-freecodecamp-radio-chill-tunes-you-can-code-to-dbae61681cf0
 Mail Blaster - https://github.com/freeCodeCamp/mail-for-good
 Founder's History/Success Story Road Map React Page
-
+Make a app that searches for tweets and stores them in Mongo or Sqlite
+File upload to dropbox
+Login to app using google auth
+Search github using usernames and display top repos(if possible) or similar
+Send email to multiple clients
+Pathways Website as a Single Page Application
 
 #React Tic Tac Toe - TODO#
 1. Display the location for each move in the format (col, row) in the move history list.
