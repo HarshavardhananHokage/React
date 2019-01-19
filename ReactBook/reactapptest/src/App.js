@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-//import Clock from './comps/Clock';
+import Clock from './comps/Clock';
 //import Warning from './comps/Warning';;
 //import Select from './comps/Select';
 import MultipleInputs from './comps/MultipleInputs';
@@ -18,7 +18,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <MultipleInputs />
+        <Clock />
       </div>
     )
   }
